@@ -22,7 +22,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e graduanda em *
 ---
 
 ### 📊 Minhas Estatísticas
-![Estatísticas do GitHub](![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlineferreiraP&show_icons=true&theme=dracula))
+![Estatísticas da Aline](https://github-readme-stats.vercel.app/api?username=AlineferreiraP&show_icons=true&theme=dracula&count_private=true)
 
 ---
 
