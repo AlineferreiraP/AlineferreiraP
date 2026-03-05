@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou a Aline Ferreira! 👋
 
-<!--
-**AlineferreiraP/AlineferreiraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Desenvolvedora em Evolução | ADS & Sistemas de Informação
 
-Here are some ideas to get you started:
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e graduanda em **Sistemas de Informação** na Universidade dos Vales do Jequitinhonha e Mucuri(UFVJM). Minha trajetória une a experiência técnica prática com o aprofundamento acadêmico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Conhecimentos e Tecnologias
+* **Web Development:** HTML5, CSS3 e JavaScript.
+* **Linguagens:** Praticando lógica e automação com **Python**.
+* **Fundamentos:** Noções de **Lógica Computacional** e **Programação Orientada a Objetos (POO)**.
+* **Processos:** Conhecimento em **Metodologias Ágeis** (Scrum/XP).
+* **Sistemas:** Experiência com **Linux** e ferramentas de versionamento **Git/GitHub**.
+
+---
+
+### 🎬 Além do Código
+* 🎙️ Apaixonada por **canto**.
+* 🍿 Fã de universos de fantasia como *Harry Potter*, *Senhor dos Anéis* e clássicos como *Senhora do Destino*.
+
+---
+
+### 📊 Minhas Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlineferreiraP&show_icons=true&theme=dracula)
+
+---
+
+### 📫 Contato
+* **LinkedIn:** www.linkedin.com/in/alineferreirapena
+* **E-mail:** alinefpena@gmail.com
