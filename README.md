@@ -2,7 +2,7 @@
 
 ## 🎓 Desenvolvedora em Evolução | ADS & Sistemas de Informação
 
-Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e graduanda em **Sistemas de Informação** na Universidade dos Vales do Jequitinhonha e Mucuri(UFVJM). Minha trajetória une a experiência técnica prática com o aprofundamento acadêmico.
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e graduanda em **Sistemas de Informação** na Universidade dos Vales do Jequitinhonha e Mucuri(UFVJM). 
 
 ---
 
